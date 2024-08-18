@@ -42,7 +42,7 @@ Um die Projekte auszuführen oder die Ergebnisse zu betrachten, klone bitte dies
 
 ### Haftungsausschluss
 
-Die in diesem Repository enthaltenen Daten und Ergebnisse dienen ausschließlich akademischen und Forschungszwecken. Eine kommerzielle Nutzung oder Weitergabe der Inhalte ist ohne meine ausdrückliche Genehmigung nicht gestattet.
+Die in diesem Repository enthaltenen Daten und Ergebnisse dienen ausschliesslich akademischen und Forschungszwecken. Eine kommerzielle Nutzung oder Weitergabe der Inhalte ist ohne meine ausdrückliche Genehmigung nicht gestattet.
 
 ---
 
